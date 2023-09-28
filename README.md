@@ -15,3 +15,4 @@ tools:
   - calculator
   - currency converter
   - dimension image
+  - note app
